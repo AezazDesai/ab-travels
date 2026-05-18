@@ -2,99 +2,518 @@
   "packages": [
     {
       "id": "1",
-      "slug": "golden-triangle-tour",
-      "title": "Golden Triangle Tour",
-      "subtitle": "Delhi • Agra • Jaipur",
+      "slug": "goa-flight-package",
+      "title": "Goa Flight Package",
+      "subtitle": "Mumbai • Goa • Mumbai",
       "category": "domestic",
-      "duration": "6 Days / 5 Nights",
-      "price": "₹15,999",
-      "originalPrice": "₹18,500",
-      "priceNote": "per person",
-      "transport": "train",
+      "duration": "4 Days / 3 Nights",
+      "price": "₹10,500",
+      "originalPrice": "₹14,000",
+      "priceNote": "per person (ex-Mumbai)",
+      "transport": "flight",
       "images": [
-        "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
-        "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
-        "https://images.unsplash.com/photo-1587135941948-670b381f08ce?w=800&q=80"
+        "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&q=80",
+        "https://images.unsplash.com/photo-1587922546307-776227941871?w=800&q=80",
+        "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&q=80"
       ],
-      "videoUrl": "https://www.youtube.com/embed/7L4-LMpFCCQ",
-      "highlights": ["Taj Mahal", "Amber Fort", "Qutub Minar", "City Palace"],
-      "inclusions": ["Hotel Stay", "Breakfast", "AC Transport", "Guide"],
+      "highlights": ["Round-trip Flights", "Rahi Coral Beach Resort", "Swimming Pool", "Daily Breakfast"],
+      "inclusions": [
+        "Round-trip flight tickets Mumbai–Goa–Mumbai",
+        "3 Nights at Rahi Coral Beach Resort",
+        "Daily Breakfast (3 Days)",
+        "Free Swimming Pool Access",
+        "Free Wi-Fi",
+        "All Taxes Included"
+      ],
       "exclusions": [
+        "Airport Pickup & Drop",
         "Lunch & Dinner",
-        "Entry Tickets",
         "Personal Expenses",
         "Travel Insurance"
       ],
       "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" },
-        {
-          "label": "2 to 5 Years",
-          "price": "₹4,000",
-          "note": "With seat, no bed"
-        },
-        {
-          "label": "5 to 12 Years",
-          "price": "₹8,500",
-          "note": "With seat & bed"
-        }
+        { "label": "0 to 2 Years", "price": "₹4,000", "note": "No seat / No meal" },
+        { "label": "2 to 5 Years", "price": "₹8,500", "note": "With seat (ex-Mumbai)" }
       ],
-      "description": "Explore India's most iconic heritage triangle — the grandeur of Delhi, the timeless beauty of the Taj Mahal in Agra, and the royal splendour of Jaipur.",
+      "description": "Escape to sun-soaked Goa with our all-inclusive flight package from Mumbai. Stay at the beautiful Rahi Coral Beach Resort with free pool access, daily breakfast and everything sorted by AB Travels.",
       "whatsappNumber": "9909957177",
       "featured": true,
       "popular": true,
       "badge": "Best Seller",
-      "createdAt": "2024-01-15"
+      "createdAt": "2025-05-01"
     },
     {
       "id": "2",
-      "slug": "dubai-explorer",
-      "title": "Dubai Explorer",
-      "subtitle": "City of Gold & Wonder",
+      "slug": "oman-muscat-package",
+      "title": "Oman Muscat Package",
+      "subtitle": "Mumbai • Muscat • Mumbai",
+      "category": "international",
+      "duration": "3 Days / 2 Nights",
+      "price": "₹25,000",
+      "originalPrice": "₹35,000",
+      "priceNote": "per person (ex-Mumbai)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1545158535-c3f7168c28b6?w=800&q=80",
+        "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=800&q=80",
+        "https://images.unsplash.com/photo-1609167830220-7164aa360951?w=800&q=80"
+      ],
+      "highlights": ["Sultan Qaboos Grand Mosque", "Mutrah Souq", "Al Alam Palace", "Muscat City Tour"],
+      "inclusions": [
+        "Mumbai–Muscat return economy flight",
+        "Oman e-Visa",
+        "Airport ↔ Hotel pickup & drop (SIC)",
+        "3★ Hotel — 2 Nights",
+        "Daily Breakfast",
+        "Half-day Muscat City Tour (SIC)",
+        "All SIC transfers as per itinerary"
+      ],
+      "exclusions": [
+        "Lunch & Dinner",
+        "Entry tickets not specified in itinerary",
+        "Personal expenses & shopping",
+        "Porterage, laundry & tips",
+        "Anything not in inclusions"
+      ],
+      "childCharges": [],
+      "description": "Discover the charm of Muscat — a city of stunning landscapes, timeless architecture and warm Arabian hospitality. AB Travels handles your visa, flights, hotel and sightseeing so you can just enjoy.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Popular",
+      "createdAt": "2025-04-15"
+    },
+    {
+      "id": "3",
+      "slug": "phuket-krabi-package",
+      "title": "Phuket & Krabi Package",
+      "subtitle": "Mumbai • Phuket • Krabi • Mumbai",
+      "category": "international",
+      "duration": "6 Days / 5 Nights",
+      "price": "₹55,000",
+      "priceNote": "per person (min 4 pax)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=800&q=80",
+        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80",
+        "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=800&q=80",
+        "https://images.unsplash.com/photo-1506665531195-3566af2b4dfa?w=800&q=80"
+      ],
+      "highlights": ["Phi Phi Island Tour", "Krabi 4 Island Tour", "Phuket City Tour", "5 Breakfasts + 2 Lunches"],
+      "inclusions": [
+        "Return flights from Mumbai",
+        "Phuket 3 Nights (APK Resort or similar)",
+        "Krabi 2 Nights (Glow Aonang or similar)",
+        "5 Daily Breakfasts",
+        "2 Lunches during island tours",
+        "Phi Phi Island & Krabi 4 Island Tours",
+        "Airport & sightseeing transfers",
+        "Local assistance"
+      ],
+      "exclusions": [
+        "Dinner (except included lunches)",
+        "National Park Fee THB 400 (payable locally)",
+        "Optional activities & personal expenses",
+        "Travel Insurance"
+      ],
+      "childCharges": [],
+      "description": "Island-hop across Thailand's most spectacular destinations — Phuket and Krabi. From the iconic Phi Phi Islands to the crystal-clear waters of Krabi's 4 Islands, this is a beach lover's dream.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Popular",
+      "createdAt": "2025-04-01"
+    },
+    {
+      "id": "4",
+      "slug": "south-india-tour",
+      "title": "South India Tour",
+      "subtitle": "Bangalore • Mysore • Ooty",
+      "category": "domestic",
+      "duration": "5 Days / 4 Nights",
+      "price": "₹29,999",
+      "priceNote": "per person (ex-Mumbai)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80",
+        "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?w=800&q=80",
+        "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=800&q=80"
+      ],
+      "highlights": ["Mysore Palace", "Ooty Hill Station", "Brindavan Garden", "Private AC Cab"],
+      "inclusions": [
+        "Return economy flights Mumbai–Bangalore–Mumbai",
+        "3-star hotels at all destinations",
+        "Daily Breakfast",
+        "Private AC cab for all transfers & sightseeing",
+        "All tolls, parking & driver allowances"
+      ],
+      "exclusions": [
+        "Lunch & Dinner",
+        "Entry tickets to sightseeing places",
+        "Personal expenses",
+        "Travel Insurance"
+      ],
+      "childCharges": [],
+      "description": "Explore the beauty of South India across Bangalore, Mysore and the scenic hill station of Ooty. Enjoy royal palaces, lush tea gardens, botanical wonders and cool mountain air — all in 5 days.",
+      "whatsappNumber": "9909957177",
+      "featured": false,
+      "popular": true,
+      "badge": "New",
+      "createdAt": "2025-05-10"
+    },
+    {
+      "id": "5",
+      "slug": "malaysia-package",
+      "title": "Malaysia Package",
+      "subtitle": "Ahmedabad / Mumbai • Kuala Lumpur",
+      "category": "international",
+      "duration": "4 Days / 3 Nights",
+      "price": "₹29,999",
+      "originalPrice": "₹39,999",
+      "priceNote": "per person (ex-Ahmedabad / Mumbai)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800&q=80",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+      ],
+      "highlights": ["Petronas Towers", "KL City Tour", "Visa Free on Arrival", "3-Star Hotel"],
+      "inclusions": [
+        "Ahmedabad/Mumbai to Kuala Lumpur return flights",
+        "Malaysia Visa — Free on Arrival",
+        "3 Nights at 3-Star Hotel (Areena Star / My Hotel Bukit Bintang)",
+        "Daily Breakfast",
+        "Half-day KL City Tour",
+        "Airport Pickup & Drop",
+        "Free Wi-Fi",
+        "All Taxes Included",
+        "7 Kg hand bag allowance"
+      ],
+      "exclusions": [
+        "Lunch & Dinner",
+        "Tourism Tax ₹300 (payable locally)",
+        "Personal expenses & shopping"
+      ],
+      "childCharges": [],
+      "description": "Visit Kuala Lumpur — home to the iconic Petronas Twin Towers, vibrant culture and incredible street food. Malaysia offers visa-free entry, making it one of the easiest and most rewarding international trips.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": false,
+      "badge": "Visa Free",
+      "createdAt": "2025-03-20"
+    },
+    {
+      "id": "6",
+      "slug": "shimla-manali-package",
+      "title": "Shimla & Manali Package",
+      "subtitle": "Delhi • Shimla • Manali • Delhi",
+      "category": "domestic",
+      "duration": "7 Days / 6 Nights",
+      "price": "₹22,999",
+      "priceNote": "per person (ex-Ahmedabad)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1597074866923-dc0589150358?w=800&q=80"
+      ],
+      "highlights": ["Solang Valley", "Rohtang Pass", "Shimla Mall Road", "Snow Activities"],
+      "inclusions": [
+        "Return flights Ahmedabad–Delhi–Ahmedabad",
+        "2 Nights in Shimla (3-Star Hotel)",
+        "3 Nights in Manali (3-Star Hotel)",
+        "Daily Breakfast & Dinner",
+        "All transfers by private AC vehicle",
+        "Shimla local sightseeing",
+        "Manali local sightseeing",
+        "All tolls, parking & driver allowances"
+      ],
+      "exclusions": [
+        "Gondola & Pony Ride",
+        "Lunch",
+        "Adventure activities (own cost)",
+        "Personal expenses",
+        "Travel Insurance"
+      ],
+      "childCharges": [
+        { "label": "0 to 2 Years", "price": "₹4,000", "note": "No seat / No meal" },
+        { "label": "2 to 5 Years", "price": "₹11,500", "note": "Ex-Ahmedabad, with seat" }
+      ],
+      "description": "Experience the magic of the Himalayas across two iconic hill destinations — Shimla and Manali. From the charming colonial streets of Shimla to the snow-clad peaks of Solang Valley, this is a mountain lover's paradise.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Best Seller",
+      "createdAt": "2025-02-10"
+    },
+    {
+      "id": "7",
+      "slug": "maldives-deluxe-package",
+      "title": "Maldives Deluxe Package",
+      "subtitle": "Mumbai • Maafushi • Mumbai",
+      "category": "international",
+      "duration": "4 Days / 3 Nights",
+      "price": "₹49,999",
+      "originalPrice": "₹59,999",
+      "priceNote": "per person (min 2 pax)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800&q=80",
+        "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&q=80",
+        "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=800&q=80",
+        "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=800&q=80"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/BXNueAClCu4?si=reM5P4LBqFcrHQh1",
+      "highlights": ["4-Star Resort", "Snorkeling Tours", "Dolphin View", "Sandbank Tour"],
+      "inclusions": [
+        "Mumbai–Maldives return flight tickets",
+        "4-Star Hotel — Arena Beach Resort / Kaani Hotel (3 Nights)",
+        "Speed Boat Transfer",
+        "Welcome Drink on Arrival",
+        "Daily Breakfast & Dinner",
+        "3 Snorkeling Tours",
+        "Sandbank Tour with Lunch",
+        "Dolphin & Turtle Viewing",
+        "Free Underwater Photography",
+        "Free Beach Sunbed & Snorkeling Gears",
+        "Free Infinity Swimming Pool",
+        "2 Mineral Water Bottles Daily",
+        "Free Wi-Fi at Hotel"
+      ],
+      "exclusions": [
+        "Lunch (except Sandbank Tour)",
+        "Green Tax — 18 USD (payable locally)",
+        "Personal expenses & shopping",
+        "Alcohol (not available on local islands)",
+        "Travel Insurance"
+      ],
+      "childCharges": [],
+      "description": "Indulge in the ultimate tropical escape — turquoise lagoons, pristine white beaches, vibrant coral reefs and warm Maldivian hospitality. AB Travels presents a premium Maldives experience at an unbeatable price.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Luxury",
+      "createdAt": "2025-05-15"
+    },
+    {
+      "id": "8",
+      "slug": "kerala-flight-package",
+      "title": "Kerala Flight Package",
+      "subtitle": "Mumbai • Kochi • Munnar • Thekkady • Alleppey",
+      "category": "domestic",
+      "duration": "6 Days / 5 Nights",
+      "price": "₹26,999",
+      "originalPrice": "₹32,999",
+      "priceNote": "per person (ex-Mumbai)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&q=80",
+        "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80",
+        "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80",
+        "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80"
+      ],
+      "highlights": ["Munnar Tea Gardens", "Periyar Wildlife Sanctuary", "Dal Lake Houseboat", "Kochi Fort"],
+      "inclusions": [
+        "Mumbai–Kochi return flights",
+        "2 Nights in Munnar — Green Ridge or similar (with Breakfast)",
+        "1 Night in Thekkady — Wild Saga / Season Thekkady (with Breakfast)",
+        "1 Night Deluxe Houseboat in Alleppey (All Meals)",
+        "1 Night in Kochi — Pearl Palace / Millennium Continental (with Breakfast)",
+        "Private car pickup & drop",
+        "Private AC car all sightseeing (600 km)",
+        "Free Wi-Fi",
+        "All Taxes"
+      ],
+      "exclusions": [
+        "Lunch & Dinner (except Houseboat)",
+        "Entry tickets to parks & monuments",
+        "Personal expenses",
+        "Travel Insurance"
+      ],
+      "childCharges": [
+        { "label": "0 to 2 Years", "price": "₹3,500", "note": "No seat / No meal" },
+        { "label": "2 to 5 Years", "price": "₹14,999", "note": "With seat & meals" }
+      ],
+      "description": "Journey through God's Own Country — lush tea plantations of Munnar, the wildlife of Thekkady, enchanting backwater cruises in Alleppey and the historic charm of Fort Kochi. Kerala is a feast for the senses.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Popular",
+      "createdAt": "2025-03-05"
+    },
+    {
+      "id": "9",
+      "slug": "singapore-package",
+      "title": "Singapore Package",
+      "subtitle": "Mumbai • Singapore • Mumbai",
+      "category": "international",
+      "duration": "4 Days / 3 Nights",
+      "price": "₹49,999",
+      "originalPrice": "₹59,999",
+      "priceNote": "per person (ex-Mumbai)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800&q=80",
+        "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=800&q=80",
+        "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?w=800&q=80"      ],
+      "highlights": ["Sentosa Island", "Gardens by the Bay", "Singapore City Tour", "Merlion Park"],
+      "inclusions": [
+        "Mumbai–Singapore return flights",
+        "Singapore Visa",
+        "3 Nights at Sandpiper Little India Hotel",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Singapore City Tour (Merlion, Chinatown, Little India, Gardens by the Bay)",
+        "Sentosa Island Tour — 4-in-1 Combo (Cable Car, S.E.A. Aquarium, Wings of Time, Madame Tussauds)",
+        "Free Wi-Fi",
+        "All Taxes Included"
+      ],
+      "exclusions": [
+        "Dinner",
+        "Universal Studio (add-on available)",
+        "Personal expenses & shopping",
+        "Travel Insurance"
+      ],
+      "childCharges": [],
+      "description": "Singapore dazzles with its iconic skyline, world-class attractions and extraordinary blend of cultures. From the futuristic Gardens by the Bay to the thrilling Sentosa Island, this is Asia's most vibrant city-state.",
+      "whatsappNumber": "9909957177",
+      "featured": false,
+      "popular": true,
+      "badge": "Popular",
+      "createdAt": "2025-01-20"
+    },
+    {
+      "id": "10",
+      "slug": "bangkok-pattaya-package",
+      "title": "Bangkok & Pattaya Package",
+      "subtitle": "Mumbai • Pattaya • Bangkok • Mumbai",
+      "category": "international",
+      "duration": "5 Days / 4 Nights",
+      "price": "₹37,999",
+      "originalPrice": "₹39,999",
+      "priceNote": "per person (min 4 pax)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800&q=80",
+        "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80",
+        "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80",
+        "https://images.unsplash.com/photo-1562602833-0f4ab2fc46e3?w=800&q=80"
+      ],
+      "highlights": ["Coral Island Tour", "Bangkok Temple Tour", "Pattaya Beach", "Visa on Arrival Free"],
+      "inclusions": [
+        "Mumbai–Bangkok return flights",
+        "3 Nights in Pattaya — Palette Walking Street or similar",
+        "1 Night in Bangkok — Grand Alpine Hotel or similar",
+        "Daily Breakfast",
+        "Coral Island Tour with Lunch",
+        "Bangkok 2 Temple Tour",
+        "All airport & intercity transfers",
+        "Thailand Visa on Arrival — FREE",
+        "Free Wi-Fi",
+        "All Taxes Included"
+      ],
+      "exclusions": [
+        "Dinner",
+        "Lunch (only 1 included at Coral Island)",
+        "Extra baggage — 20 Kg ₹3,300 roundtrip",
+        "Personal expenses",
+        "Travel Insurance"
+      ],
+      "childCharges": [],
+      "description": "Experience the best of Thailand — the buzzing beach resort of Pattaya and the magnificent temples and city life of Bangkok. Fun, culture, beaches and great food all in one incredible 5-day package.",
+      "whatsappNumber": "9909957177",
+      "featured": false,
+      "popular": false,
+      "badge": "New",
+      "createdAt": "2025-06-01"
+    },
+    {
+      "id": "11",
+      "slug": "kashmir-tour-package",
+      "title": "Kashmir Tour Package",
+      "subtitle": "Srinagar • Gulmarg • Pahalgam • Sonmarg",
+      "category": "domestic",
+      "duration": "6 Days / 5 Nights",
+      "price": "₹35,999",
+      "originalPrice": "₹39,999",
+      "priceNote": "per person (ex-Surat / Ahmedabad / Mumbai)",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80",
+        "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"      ],
+      "highlights": ["Dal Lake Houseboat", "Gulmarg Gondola", "Pahalgam Valley", "Shikara Ride"],
+      "inclusions": [
+        "Round-trip Flight Tickets",
+        "1 Night on Dal Lake Houseboat",
+        "4 Nights in 3-Star Hotel (Centre Point or similar)",
+        "Daily Breakfast & Dinner",
+        "All sightseeing & transfers by Non-AC Vehicle",
+        "1-Hour Shikara Ride",
+        "All tolls, parking & driver allowances"
+      ],
+      "exclusions": [
+        "Gondola & Pony Ride (own cost)",
+        "Entry fees to gardens & monuments",
+        "Thajiwas Glacier & Sonmarg Snow Point (own cost)",
+        "Room heater (as per hotel policy)",
+        "Lunch",
+        "All optional activities",
+        "Travel Insurance"
+      ],
+      "childCharges": [
+        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" }
+      ],
+      "description": "Kashmir — where heaven meets earth. Float on the iconic Dal Lake, ride the world's highest gondola in Gulmarg, stroll the meadows of Pahalgam and witness the golden meadows of Sonmarg. Pure magic.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Best Seller",
+      "createdAt": "2025-01-01"
+    },
+    {
+      "id": "12",
+      "slug": "dubai-package",
+      "title": "Dubai Package",
+      "subtitle": "India • Dubai • Abu Dhabi • Dubai • India",
       "category": "international",
       "duration": "5 Days / 4 Nights",
       "price": "₹45,999",
-      "originalPrice": "₹52,000",
       "priceNote": "per person",
       "transport": "flight",
       "images": [
         "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
         "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800&q=80",
-        "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=800&q=80"
+        "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=800&q=80",
+        "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=800&q=80"
       ],
-      "videoUrl": "https://www.youtube.com/embed/3PAcKFhUJ18",
-      "highlights": [
-        "Burj Khalifa",
-        "Desert Safari",
-        "Dubai Mall",
-        "Palm Jumeirah"
+      "highlights": ["Burj Khalifa 124th Floor", "Desert Safari & BBQ", "Abu Dhabi City Tour", "Sheikh Zayed Mosque"],
+      "inclusions": [
+        "Return flights India–Dubai–India",
+        "Dubai Visa",
+        "4 Nights Hotel Stay",
+        "Daily Breakfast",
+        "Dubai City Tour (Burj Khalifa, Dubai Mall, Fountain Show)",
+        "Abu Dhabi Full Day Tour (BAPS Mandir, Sheikh Zayed Mosque, Yas Island)",
+        "Desert Safari with BBQ Dinner, Belly Dance & Tanura Show",
+        "All transfers"
       ],
-      "inclusions": ["Visa Assistance", "Hotel Stay", "Breakfast", "City Tour"],
       "exclusions": [
-        "International Flights",
-        "Lunch & Dinner",
-        "Personal Shopping",
+        "Lunch & Dinner (except Desert Safari BBQ)",
+        "Tourism Tax ₹700 (payable at hotel)",
+        "Optional sightseeing add-ons",
+        "Personal expenses & shopping",
         "Travel Insurance"
       ],
-      "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" },
-        {
-          "label": "2 to 12 Years",
-          "price": "₹18,000",
-          "note": "With seat & breakfast"
-        }
-      ],
-      "description": "Experience the dazzling city of Dubai — from the world's tallest building to golden desert dunes. A perfect blend of luxury and adventure.",
+      "childCharges": [],
+      "description": "Experience the ultimate Dubai getaway — the iconic Burj Khalifa, thrilling desert safari with BBQ under the stars, the grandeur of the Sheikh Zayed Grand Mosque in Abu Dhabi, and Dubai's legendary shopping. All managed seamlessly by AB Travels.",
       "whatsappNumber": "9909957177",
       "featured": true,
       "popular": true,
-      "badge": "Popular",
-      "createdAt": "2024-02-10"
+      "badge": "Best Seller",
+      "createdAt": "2025-02-28"
     },
     {
-      "id": "3",
+      "id": "13",
       "slug": "umrah-package-economy",
-      "title": "Umrah Package",
-      "subtitle": "Economy — Makkah & Madinah",
+      "title": "Umrah Package — Economy",
+      "subtitle": "Makkah & Madinah",
       "category": "umrah",
       "duration": "14 Days / 13 Nights",
       "price": "₹85,000",
@@ -104,73 +523,33 @@
         "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=800&q=80",
         "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80"
       ],
-      "highlights": [
-        "Makkah Stay",
-        "Madinah Stay",
-        "Ziyarat Tour",
-        "Guided Group"
+      "highlights": ["Makkah Hotel Stay", "Madinah Hotel Stay", "Ziyarat Tours", "Experienced Group Guide"],
+      "inclusions": [
+        "Return Air Ticket",
+        "Umrah Visa",
+        "Makkah Hotel Stay (near Haram)",
+        "Madinah Hotel Stay",
+        "Airport & Intercity Transfers",
+        "Ziyarat Tours in Makkah & Madinah",
+        "Experienced Group Guide"
       ],
-      "inclusions": ["Visa", "Air Ticket", "Hotel", "Transport", "Group Guide"],
-      "exclusions": ["Personal Expenses", "Extra Meals", "Qurbani", "Laundry"],
+      "exclusions": [
+        "Personal Expenses",
+        "Extra Meals",
+        "Qurbani",
+        "Laundry",
+        "Travel Insurance"
+      ],
       "childCharges": [
-        {
-          "label": "0 to 2 Years",
-          "price": "₹0",
-          "note": "Lap infant, no seat"
-        },
+        { "label": "0 to 2 Years", "price": "₹0", "note": "Lap infant, no seat" },
         { "label": "2 to 12 Years", "price": "₹55,000", "note": "With seat" }
       ],
-      "description": "Fulfill your spiritual journey with our trusted Umrah package. We handle every detail so you can focus entirely on your ibadah and connection with Allah.",
+      "description": "Fulfil your sacred Umrah with complete peace of mind. AB Travels takes care of every detail — visa, flights, hotel near the Haram, Ziyarat tours and 24/7 support — so you can focus entirely on your ibadah.",
       "whatsappNumber": "9909957177",
       "featured": true,
       "popular": false,
       "badge": "Trusted",
-      "createdAt": "2024-03-01"
-    },
-    {
-      "id": "4",
-      "slug": "kashmir-paradise",
-      "title": "Kashmir Paradise",
-      "subtitle": "Heaven on Earth",
-      "category": "domestic",
-      "duration": "7 Days / 6 Nights",
-      "price": "₹22,999",
-      "originalPrice": "₹27,000",
-      "priceNote": "per person",
-      "transport": "both",
-      "images": [
-        "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=800&q=80",
-        "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80",
-        "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
-      ],
-      "videoUrl": "https://www.youtube.com/embed/lGVBpSUGAGk",
-      "highlights": ["Dal Lake", "Gulmarg", "Pahalgam", "Shikara Ride"],
-      "inclusions": ["Hotel Stay", "All Meals", "Shikara Ride", "Transport"],
-      "exclusions": [
-        "Air/Train Tickets",
-        "Personal Expenses",
-        "Adventure Activities",
-        "Travel Insurance"
-      ],
-      "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" },
-        {
-          "label": "2 to 5 Years",
-          "price": "₹4,000",
-          "note": "With seat, no bed"
-        },
-        {
-          "label": "5 to 12 Years",
-          "price": "₹8,500",
-          "note": "With seat & bed"
-        }
-      ],
-      "description": "Discover the breathtaking valleys, snow-capped peaks and serene lakes of Kashmir — truly paradise on earth. Perfect for honeymoons and family tours.",
-      "whatsappNumber": "9909957177",
-      "featured": true,
-      "popular": true,
-      "badge": "New",
-      "createdAt": "2024-04-20"
+      "createdAt": "2025-01-10"
     }
   ],
   "categories": [
@@ -180,7 +559,7 @@
       "description": "Explore the wonders of India",
       "icon": "🇮🇳",
       "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",
-      "count": 12
+      "count": 5
     },
     {
       "id": "international",
@@ -188,7 +567,7 @@
       "description": "Discover the world beyond borders",
       "icon": "✈️",
       "image": "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=600&q=80",
-      "count": 8
+      "count": 7
     },
     {
       "id": "umrah",
