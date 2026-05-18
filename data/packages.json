@@ -1,0 +1,242 @@
+{
+  "packages": [
+    {
+      "id": "1",
+      "slug": "golden-triangle-tour",
+      "title": "Golden Triangle Tour",
+      "subtitle": "Delhi • Agra • Jaipur",
+      "category": "domestic",
+      "duration": "6 Days / 5 Nights",
+      "price": "₹15,999",
+      "originalPrice": "₹18,500",
+      "priceNote": "per person",
+      "transport": "train",
+      "images": [
+        "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+        "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+        "https://images.unsplash.com/photo-1587135941948-670b381f08ce?w=800&q=80"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/7L4-LMpFCCQ",
+      "highlights": ["Taj Mahal", "Amber Fort", "Qutub Minar", "City Palace"],
+      "inclusions": ["Hotel Stay", "Breakfast", "AC Transport", "Guide"],
+      "exclusions": [
+        "Lunch & Dinner",
+        "Entry Tickets",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "childCharges": [
+        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" },
+        {
+          "label": "2 to 5 Years",
+          "price": "₹4,000",
+          "note": "With seat, no bed"
+        },
+        {
+          "label": "5 to 12 Years",
+          "price": "₹8,500",
+          "note": "With seat & bed"
+        }
+      ],
+      "description": "Explore India's most iconic heritage triangle — the grandeur of Delhi, the timeless beauty of the Taj Mahal in Agra, and the royal splendour of Jaipur.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Best Seller",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "slug": "dubai-explorer",
+      "title": "Dubai Explorer",
+      "subtitle": "City of Gold & Wonder",
+      "category": "international",
+      "duration": "5 Days / 4 Nights",
+      "price": "₹45,999",
+      "originalPrice": "₹52,000",
+      "priceNote": "per person",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800&q=80",
+        "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=800&q=80"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/3PAcKFhUJ18",
+      "highlights": [
+        "Burj Khalifa",
+        "Desert Safari",
+        "Dubai Mall",
+        "Palm Jumeirah"
+      ],
+      "inclusions": ["Visa Assistance", "Hotel Stay", "Breakfast", "City Tour"],
+      "exclusions": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Shopping",
+        "Travel Insurance"
+      ],
+      "childCharges": [
+        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" },
+        {
+          "label": "2 to 12 Years",
+          "price": "₹18,000",
+          "note": "With seat & breakfast"
+        }
+      ],
+      "description": "Experience the dazzling city of Dubai — from the world's tallest building to golden desert dunes. A perfect blend of luxury and adventure.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "Popular",
+      "createdAt": "2024-02-10"
+    },
+    {
+      "id": "3",
+      "slug": "umrah-package-economy",
+      "title": "Umrah Package",
+      "subtitle": "Economy — Makkah & Madinah",
+      "category": "umrah",
+      "duration": "14 Days / 13 Nights",
+      "price": "₹85,000",
+      "priceNote": "per person",
+      "transport": "flight",
+      "images": [
+        "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=800&q=80",
+        "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80"
+      ],
+      "highlights": [
+        "Makkah Stay",
+        "Madinah Stay",
+        "Ziyarat Tour",
+        "Guided Group"
+      ],
+      "inclusions": ["Visa", "Air Ticket", "Hotel", "Transport", "Group Guide"],
+      "exclusions": ["Personal Expenses", "Extra Meals", "Qurbani", "Laundry"],
+      "childCharges": [
+        {
+          "label": "0 to 2 Years",
+          "price": "₹0",
+          "note": "Lap infant, no seat"
+        },
+        { "label": "2 to 12 Years", "price": "₹55,000", "note": "With seat" }
+      ],
+      "description": "Fulfill your spiritual journey with our trusted Umrah package. We handle every detail so you can focus entirely on your ibadah and connection with Allah.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": false,
+      "badge": "Trusted",
+      "createdAt": "2024-03-01"
+    },
+    {
+      "id": "4",
+      "slug": "kashmir-paradise",
+      "title": "Kashmir Paradise",
+      "subtitle": "Heaven on Earth",
+      "category": "domestic",
+      "duration": "7 Days / 6 Nights",
+      "price": "₹22,999",
+      "originalPrice": "₹27,000",
+      "priceNote": "per person",
+      "transport": "both",
+      "images": [
+        "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=800&q=80",
+        "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80",
+        "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/lGVBpSUGAGk",
+      "highlights": ["Dal Lake", "Gulmarg", "Pahalgam", "Shikara Ride"],
+      "inclusions": ["Hotel Stay", "All Meals", "Shikara Ride", "Transport"],
+      "exclusions": [
+        "Air/Train Tickets",
+        "Personal Expenses",
+        "Adventure Activities",
+        "Travel Insurance"
+      ],
+      "childCharges": [
+        { "label": "0 to 2 Years", "price": "₹0", "note": "No seat / No meal" },
+        {
+          "label": "2 to 5 Years",
+          "price": "₹4,000",
+          "note": "With seat, no bed"
+        },
+        {
+          "label": "5 to 12 Years",
+          "price": "₹8,500",
+          "note": "With seat & bed"
+        }
+      ],
+      "description": "Discover the breathtaking valleys, snow-capped peaks and serene lakes of Kashmir — truly paradise on earth. Perfect for honeymoons and family tours.",
+      "whatsappNumber": "9909957177",
+      "featured": true,
+      "popular": true,
+      "badge": "New",
+      "createdAt": "2024-04-20"
+    }
+  ],
+  "categories": [
+    {
+      "id": "domestic",
+      "label": "Domestic Tours",
+      "description": "Explore the wonders of India",
+      "icon": "🇮🇳",
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80",
+      "count": 12
+    },
+    {
+      "id": "international",
+      "label": "International Tours",
+      "description": "Discover the world beyond borders",
+      "icon": "✈️",
+      "image": "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=600&q=80",
+      "count": 8
+    },
+    {
+      "id": "umrah",
+      "label": "Umrah Packages",
+      "description": "Sacred journeys, handled with care",
+      "icon": "🕌",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=600&q=80",
+      "count": 4
+    },
+    {
+      "id": "hajj",
+      "label": "Hajj Packages",
+      "description": "The blessed pilgrimage of a lifetime",
+      "icon": "🕋",
+      "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=600&q=80",
+      "count": 2
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "Shield",
+      "title": "Trusted Since 2015",
+      "description": "Hundreds of happy families have travelled with AB Travels from Navsari and across Gujarat."
+    },
+    {
+      "icon": "HeadphonesIcon",
+      "title": "24/7 Support",
+      "description": "We are always available on WhatsApp for any queries before, during and after your trip."
+    },
+    {
+      "icon": "BadgeIndianRupee",
+      "title": "Best Price Guarantee",
+      "description": "Transparent pricing with no hidden charges. We match or beat any comparable package."
+    },
+    {
+      "icon": "Users",
+      "title": "Group & Family Experts",
+      "description": "Specialists in group bookings, family vacations, honeymoon packages and religious tours."
+    },
+    {
+      "icon": "MapPin",
+      "title": "Local Knowledge",
+      "description": "Based in Tankal, Navsari — we understand what Gujarat travellers need and expect."
+    },
+    {
+      "icon": "Star",
+      "title": "Umrah & Hajj Specialists",
+      "description": "Years of experience organising sacred pilgrimages with complete visa and travel support."
+    }
+  ]
+}
