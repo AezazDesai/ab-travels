@@ -16,7 +16,12 @@
         "https://images.unsplash.com/photo-1587922546307-776227941871?w=800&q=80",
         "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&q=80"
       ],
-      "highlights": ["Round-trip Flights", "Rahi Coral Beach Resort", "Swimming Pool", "Daily Breakfast"],
+      "highlights": [
+        "Round-trip Flights",
+        "Rahi Coral Beach Resort",
+        "Swimming Pool",
+        "Daily Breakfast"
+      ],
       "inclusions": [
         "Round-trip flight tickets Mumbai–Goa–Mumbai",
         "3 Nights at Rahi Coral Beach Resort",
@@ -32,8 +37,16 @@
         "Travel Insurance"
       ],
       "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹4,000", "note": "No seat / No meal" },
-        { "label": "2 to 5 Years", "price": "₹8,500", "note": "With seat (ex-Mumbai)" }
+        {
+          "label": "0 to 2 Years",
+          "price": "₹4,000",
+          "note": "No seat / No meal"
+        },
+        {
+          "label": "2 to 5 Years",
+          "price": "₹8,500",
+          "note": "With seat (ex-Mumbai)"
+        }
       ],
       "description": "Escape to sun-soaked Goa with our all-inclusive flight package from Mumbai. Stay at the beautiful Rahi Coral Beach Resort with free pool access, daily breakfast and everything sorted by AB Travels.",
       "whatsappNumber": "9909957177",
@@ -58,7 +71,12 @@
         "https://images.unsplash.com/photo-1578894381163-e72c17f2d45f?w=800&q=80",
         "https://images.unsplash.com/photo-1609167830220-7164aa360951?w=800&q=80"
       ],
-      "highlights": ["Sultan Qaboos Grand Mosque", "Mutrah Souq", "Al Alam Palace", "Muscat City Tour"],
+      "highlights": [
+        "Sultan Qaboos Grand Mosque",
+        "Mutrah Souq",
+        "Al Alam Palace",
+        "Muscat City Tour"
+      ],
       "inclusions": [
         "Mumbai–Muscat return economy flight",
         "Oman e-Visa",
@@ -99,7 +117,12 @@
         "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=800&q=80",
         "https://images.unsplash.com/photo-1506665531195-3566af2b4dfa?w=800&q=80"
       ],
-      "highlights": ["Phi Phi Island Tour", "Krabi 4 Island Tour", "Phuket City Tour", "5 Breakfasts + 2 Lunches"],
+      "highlights": [
+        "Phi Phi Island Tour",
+        "Krabi 4 Island Tour",
+        "Phuket City Tour",
+        "5 Breakfasts + 2 Lunches"
+      ],
       "inclusions": [
         "Return flights from Mumbai",
         "Phuket 3 Nights (APK Resort or similar)",
@@ -139,7 +162,12 @@
         "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?w=800&q=80",
         "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=800&q=80"
       ],
-      "highlights": ["Mysore Palace", "Ooty Hill Station", "Brindavan Garden", "Private AC Cab"],
+      "highlights": [
+        "Mysore Palace",
+        "Ooty Hill Station",
+        "Brindavan Garden",
+        "Private AC Cab"
+      ],
       "inclusions": [
         "Return economy flights Mumbai–Bangalore–Mumbai",
         "3-star hotels at all destinations",
@@ -176,7 +204,12 @@
         "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800&q=80",
         "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
       ],
-      "highlights": ["Petronas Towers", "KL City Tour", "Visa Free on Arrival", "3-Star Hotel"],
+      "highlights": [
+        "Petronas Towers",
+        "KL City Tour",
+        "Visa Free on Arrival",
+        "3-Star Hotel"
+      ],
       "inclusions": [
         "Ahmedabad/Mumbai to Kuala Lumpur return flights",
         "Malaysia Visa — Free on Arrival",
@@ -214,7 +247,12 @@
       "images": [
         "https://images.unsplash.com/photo-1597074866923-dc0589150358?w=800&q=80"
       ],
-      "highlights": ["Solang Valley", "Rohtang Pass", "Shimla Mall Road", "Snow Activities"],
+      "highlights": [
+        "Solang Valley",
+        "Rohtang Pass",
+        "Shimla Mall Road",
+        "Snow Activities"
+      ],
       "inclusions": [
         "Return flights Ahmedabad–Delhi–Ahmedabad",
         "2 Nights in Shimla (3-Star Hotel)",
@@ -233,8 +271,16 @@
         "Travel Insurance"
       ],
       "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹4,000", "note": "No seat / No meal" },
-        { "label": "2 to 5 Years", "price": "₹11,500", "note": "Ex-Ahmedabad, with seat" }
+        {
+          "label": "0 to 2 Years",
+          "price": "₹4,000",
+          "note": "No seat / No meal"
+        },
+        {
+          "label": "2 to 5 Years",
+          "price": "₹11,500",
+          "note": "Ex-Ahmedabad, with seat"
+        }
       ],
       "description": "Experience the magic of the Himalayas across two iconic hill destinations — Shimla and Manali. From the charming colonial streets of Shimla to the snow-clad peaks of Solang Valley, this is a mountain lover's paradise.",
       "whatsappNumber": "9909957177",
@@ -261,7 +307,12 @@
         "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?w=800&q=80"
       ],
       "videoUrl": "https://www.youtube.com/embed/BXNueAClCu4?si=reM5P4LBqFcrHQh1",
-      "highlights": ["4-Star Resort", "Snorkeling Tours", "Dolphin View", "Sandbank Tour"],
+      "highlights": [
+        "4-Star Resort",
+        "Snorkeling Tours",
+        "Dolphin View",
+        "Sandbank Tour"
+      ],
       "inclusions": [
         "Mumbai–Maldives return flight tickets",
         "4-Star Hotel — Arena Beach Resort / Kaani Hotel (3 Nights)",
@@ -309,7 +360,12 @@
         "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80",
         "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80"
       ],
-      "highlights": ["Munnar Tea Gardens", "Periyar Wildlife Sanctuary", "Dal Lake Houseboat", "Kochi Fort"],
+      "highlights": [
+        "Munnar Tea Gardens",
+        "Periyar Wildlife Sanctuary",
+        "Dal Lake Houseboat",
+        "Kochi Fort"
+      ],
       "inclusions": [
         "Mumbai–Kochi return flights",
         "2 Nights in Munnar — Green Ridge or similar (with Breakfast)",
@@ -328,8 +384,16 @@
         "Travel Insurance"
       ],
       "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹3,500", "note": "No seat / No meal" },
-        { "label": "2 to 5 Years", "price": "₹14,999", "note": "With seat & meals" }
+        {
+          "label": "0 to 2 Years",
+          "price": "₹3,500",
+          "note": "No seat / No meal"
+        },
+        {
+          "label": "2 to 5 Years",
+          "price": "₹14,999",
+          "note": "With seat & meals"
+        }
       ],
       "description": "Journey through God's Own Country — lush tea plantations of Munnar, the wildlife of Thekkady, enchanting backwater cruises in Alleppey and the historic charm of Fort Kochi. Kerala is a feast for the senses.",
       "whatsappNumber": "9909957177",
@@ -352,8 +416,14 @@
       "images": [
         "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800&q=80",
         "https://images.unsplash.com/photo-1565967511849-76a60a516170?w=800&q=80",
-        "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?w=800&q=80"      ],
-      "highlights": ["Sentosa Island", "Gardens by the Bay", "Singapore City Tour", "Merlion Park"],
+        "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?w=800&q=80"
+      ],
+      "highlights": [
+        "Sentosa Island",
+        "Gardens by the Bay",
+        "Singapore City Tour",
+        "Merlion Park"
+      ],
       "inclusions": [
         "Mumbai–Singapore return flights",
         "Singapore Visa",
@@ -396,7 +466,12 @@
         "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80",
         "https://images.unsplash.com/photo-1562602833-0f4ab2fc46e3?w=800&q=80"
       ],
-      "highlights": ["Coral Island Tour", "Bangkok Temple Tour", "Pattaya Beach", "Visa on Arrival Free"],
+      "highlights": [
+        "Coral Island Tour",
+        "Bangkok Temple Tour",
+        "Pattaya Beach",
+        "Visa on Arrival Free"
+      ],
       "inclusions": [
         "Mumbai–Bangkok return flights",
         "3 Nights in Pattaya — Palette Walking Street or similar",
@@ -437,8 +512,14 @@
       "transport": "flight",
       "images": [
         "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80",
-        "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"      ],
-      "highlights": ["Dal Lake Houseboat", "Gulmarg Gondola", "Pahalgam Valley", "Shikara Ride"],
+        "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
+      ],
+      "highlights": [
+        "Dal Lake Houseboat",
+        "Gulmarg Gondola",
+        "Pahalgam Valley",
+        "Shikara Ride"
+      ],
       "inclusions": [
         "Round-trip Flight Tickets",
         "1 Night on Dal Lake Houseboat",
@@ -465,7 +546,7 @@
       "featured": true,
       "popular": true,
       "badge": "Best Seller",
-      "createdAt": "2025-01-01"
+      "createdAt": "2026-05-20"
     },
     {
       "id": "12",
@@ -483,7 +564,12 @@
         "https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=800&q=80",
         "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=800&q=80"
       ],
-      "highlights": ["Burj Khalifa 124th Floor", "Desert Safari & BBQ", "Abu Dhabi City Tour", "Sheikh Zayed Mosque"],
+      "highlights": [
+        "Burj Khalifa 124th Floor",
+        "Desert Safari & BBQ",
+        "Abu Dhabi City Tour",
+        "Sheikh Zayed Mosque"
+      ],
       "inclusions": [
         "Return flights India–Dubai–India",
         "Dubai Visa",
@@ -523,7 +609,12 @@
         "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=800&q=80",
         "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80"
       ],
-      "highlights": ["Makkah Hotel Stay", "Madinah Hotel Stay", "Ziyarat Tours", "Experienced Group Guide"],
+      "highlights": [
+        "Makkah Hotel Stay",
+        "Madinah Hotel Stay",
+        "Ziyarat Tours",
+        "Experienced Group Guide"
+      ],
       "inclusions": [
         "Return Air Ticket",
         "Umrah Visa",
@@ -541,7 +632,11 @@
         "Travel Insurance"
       ],
       "childCharges": [
-        { "label": "0 to 2 Years", "price": "₹0", "note": "Lap infant, no seat" },
+        {
+          "label": "0 to 2 Years",
+          "price": "₹0",
+          "note": "Lap infant, no seat"
+        },
         { "label": "2 to 12 Years", "price": "₹55,000", "note": "With seat" }
       ],
       "description": "Fulfil your sacred Umrah with complete peace of mind. AB Travels takes care of every detail — visa, flights, hotel near the Haram, Ziyarat tours and 24/7 support — so you can focus entirely on your ibadah.",

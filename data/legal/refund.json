@@ -1,0 +1,36 @@
+{
+  "title": "Refund Policy",
+  "slug": "refund",
+  "lastUpdated": "2026-05-20",
+  "intro": "AB Travels strives to provide transparent and fair refund terms. Please read this policy carefully before making a booking.",
+  "sections": [
+    {
+      "heading": "1. Cancellation & Refund Timeline",
+      "content": "Refunds are processed based on the following schedule from the date of cancellation request: More than 30 days before departure — 75% refund of total package cost. 15 to 30 days before departure — 50% refund. 7 to 14 days before departure — 25% refund. Less than 7 days or no-show — No refund. Note: These are general guidelines. Specific packages may have different refund terms which will be communicated at the time of booking."
+    },
+    {
+      "heading": "2. Non-Refundable Components",
+      "content": "The following components are generally non-refundable once booked and confirmed: Airline tickets (subject to airline policy). Visa fees once the application has been submitted. Hotel bookings marked as non-refundable. Insurance premiums. Any services or activities already consumed."
+    },
+    {
+      "heading": "3. Airline Cancellations",
+      "content": "If your package includes flights and the airline cancels or significantly delays the flight, any refund from the airline will be passed on to you as per the airline's refund policy. AB Travels' service fee for flight-inclusive packages is non-refundable."
+    },
+    {
+      "heading": "4. Visa Rejection Refunds",
+      "content": "If your visa application is rejected by the respective embassy, refunds will be processed after deducting: Visa fees (non-refundable). Airline cancellation charges as per airline policy. AB Travels processing fees. The remaining amount, if any, will be refunded."
+    },
+    {
+      "heading": "5. Force Majeure",
+      "content": "No refund or compensation will be provided for cancellations or interruptions caused by events beyond our control, including but not limited to natural disasters, pandemic, government travel advisories, political unrest, strikes or extreme weather conditions. We recommend purchasing comprehensive travel insurance to cover such eventualities."
+    },
+    {
+      "heading": "6. Refund Processing Time",
+      "content": "Approved refunds will be processed within 7–15 working days from the date of approval. Refunds will be made to the original payment method. Bank processing times may vary."
+    },
+    {
+      "heading": "7. How to Request a Refund",
+      "content": "To request a cancellation and refund, please contact us in writing via: Email: info@abtravels.net or WhatsApp: +91 9909957177. Please include your booking reference, travel dates and reason for cancellation. Verbal cancellations are not accepted."
+    }
+  ]
+}

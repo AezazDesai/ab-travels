@@ -89,6 +89,47 @@ export default function AboutPage() {
         </div>
       </section>
 
+
+      {/* MSME / Udyam Registration */}
+      <section className="py-16 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="bg-gradient-to-r from-[var(--navy)] to-[var(--navy-light)] rounded-3xl p-8 md:p-10">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+              <div>
+                <span className="inline-block text-xs font-bold tracking-[0.2em] uppercase text-[var(--sky)] bg-white/10 px-3 py-1 rounded-full mb-4">
+                  Government Registered
+                </span>
+                <h2 className="text-2xl md:text-3xl font-bold text-white mb-4"
+                  style={{ fontFamily: "'Playfair Display', serif" }}>
+                  MSME Registered Business
+                </h2>
+                <p className="text-sky-100/70 text-sm leading-relaxed mb-6">
+                  AB Travels is officially registered with the Ministry of Micro, Small and Medium Enterprises (MSME), Government of India — giving you confidence that you are booking with a legitimate, trusted travel agency.
+                </p>
+                <div className="inline-flex items-center gap-2 bg-[var(--sky)]/20 text-[var(--sky)] font-bold px-4 py-2 rounded-full text-sm">
+                  UDYAM-GJ-16-0006896
+                </div>
+              </div>
+              <div className="grid grid-cols-2 gap-4">
+                {[
+                  { label: 'Enterprise Name', value: 'The AB Group' },
+                  { label: 'Type', value: 'Micro Enterprise' },
+                  { label: 'Activity', value: 'Travel Agency Services' },
+                  { label: 'State', value: 'Gujarat, India' },
+                  { label: 'District', value: 'Navsari' },
+                  { label: 'Registered', value: 'January 2022' },
+                ].map((item) => (
+                  <div key={item.label} className="bg-white/5 rounded-xl p-4">
+                    <p className="text-sky-300/60 text-xs mb-1">{item.label}</p>
+                    <p className="text-white text-sm font-semibold">{item.value}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <CTASection />
     </>
   )
