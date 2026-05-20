@@ -28,31 +28,30 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <Script>
-          {/* Google Search Console */}
-          <meta
-            name="google-site-verification"
-            content="aJXmixUvo14zA2jK3Igq9QgnXEu0FZAKiLbZ9K_-CrQ"
-          />
-          {/* Google Tag Manager - gtag.js loader */}
-          <Script
-            strategy="afterInteractive"
-            src="https://www.googletagmanager.com/gtag/js?id=G-Y9KE6NQTCX"
-          />
-          {/* Google Analytics Script */}
-          <Script
-            id="google-analytics"
-            strategy="afterInteractive"
-            dangerouslySetInnerHTML={{
-              __html: `
+        {/* Google Search Console */}
+        <meta
+          name="google-site-verification"
+          content="aJXmixUvo14zA2jK3Igq9QgnXEu0FZAKiLbZ9K_-CrQ"
+        />
+        {/* Google Tag Manager - gtag.js loader */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-Y9KE6NQTCX"
+        />
+        {/* Google Analytics Script */}
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
               gtag('config', 'G-Y9KE6NQTCX');
             `,
-            }}
-          />
-        </Script>
+          }}
+        />
+
         {/* Google Tag Manager */}
         <Script
           id="gtm-script"
