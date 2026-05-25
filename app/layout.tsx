@@ -5,6 +5,7 @@ import Footer from "@/components/layout/Footer";
 import WhatsAppButton from "@/components/ui/WhatsAppButton";
 import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next";
+import ShareMenu from "@/components/layout/ShareMenu";
 
 export const metadata: Metadata = {
   title: "AB Travels — Travel Agency in Navsari, Gujarat",
@@ -81,6 +82,7 @@ export default function RootLayout({
         </noscript>
         <Navbar />
         <main>{children}</main>
+        <ShareMenu />
         <Footer />
         <WhatsAppButton number="9909957177" variant="floating" />
         <Analytics /> {/* Vercel Analytics component */}
