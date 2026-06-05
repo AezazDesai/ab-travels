@@ -8,15 +8,15 @@ import { Analytics } from "@vercel/analytics/next";
 import ShareMenu from "@/components/layout/ShareMenu";
 
 export const metadata: Metadata = {
-  title: "AB Travels — Travel Agency in Navsari, Gujarat",
+  title: "AB Travels — Best Travel Agency in Tankal, Navsari, Gujarat",
   description:
     "AB Travels is a trusted travel agency based in At-Tankal, Navsari, Gujarat. We offer domestic tours, international packages, Umrah and Hajj packages at the best prices.",
   keywords:
     "travel agency navsari, AB travels, umrah packages gujarat, hajj packages navsari, domestic tours india, international tours gujarat",
   openGraph: {
-    title: "AB Travels — Navsari, Gujarat",
+    title: "AB Travels — Tankal, Navsari, Gujarat",
     description:
-      "Your trusted travel partner from Navsari, Gujarat. Domestic, International, Umrah & Hajj packages.",
+      "Your trusted travel partner from Tankal, Navsari, Gujarat. Domestic, International, Umrah & Hajj packages.",
     type: "website",
   },
 };
